@@ -1,6 +1,6 @@
 {
-  "name": "@types/react-pageflip",
-  "version": "1.0.0",
+  "name": "types-react-pageflip",
+  "version": "1.0.1",
   "description": "TypeScript definitions for react-pageflip.",
   "types": "src/index.d.ts",
   "files": [
