@@ -1,4 +1,4 @@
-# @types/react-pageflip
+# types-react-pageflip
 
 TypeScript definitions for [react-pageflip](https://www.npmjs.com/package/react-pageflip).
 
@@ -9,15 +9,15 @@ Choose your preferred package manager:
 ```bash
 # Using npm
 npm install react-pageflip
-npm install --save-dev @types/react-pageflip
+npm install --save-dev types-react-pageflip
 
 # Using yarn
 yarn add react-pageflip
-yarn add -D @types/react-pageflip
+yarn add -D types-react-pageflip
 
 # Using pnpm
 pnpm add react-pageflip
-pnpm add -D @types/react-pageflip
+pnpm add -D types-react-pageflip
 ```
 
 ## Usage
