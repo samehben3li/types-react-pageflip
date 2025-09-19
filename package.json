@@ -1,0 +1,28 @@
+{
+  "name": "@types/react-pageflip",
+  "version": "1.0.0",
+  "description": "TypeScript definitions for react-pageflip.",
+  "types": "src/index.d.ts",
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "typescript",
+    "types",
+    "react",
+    "react-pageflip"
+  ],
+  "author": "Sameh Benali",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samehben3li/types-react-pageflip.git"
+  },
+  "homepage": "https://github.com/samehben3li/types-react-pageflip#readme",
+  "bugs": {
+    "url": "https://github.com/samehben3li/types-react-pageflip/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
